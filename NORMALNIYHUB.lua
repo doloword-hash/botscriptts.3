@@ -15,7 +15,7 @@ local SCRIPTS_DATA = {
 	},
 	{
 		Name = "Rostickk Hub", 
-		Url = "https://raw.githubusercontent.com/ссылка_тут"
+		Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/SHEDEVR.lua"
 	},
 	{
 		Name = "Noclip", 
