@@ -18,7 +18,7 @@ local SCRIPTS_DATA = {
 		Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/SHEDEVR.lua"
 	},
 	{
-		Name = "Noclip", 
+		Name = "Noclipsd", 
 		Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/Noclip.lua"
 	},
 	{
