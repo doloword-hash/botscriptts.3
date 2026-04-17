@@ -23,7 +23,7 @@ local SCRIPTS_DATA = {
 	},
 	{
 		Name = "Teleport (TAB)", 
-		Url = "https://raw.githubusercontent.com/ссылка_тут"
+		Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/Thdfeleposr.lua"
 	}
 }
 
