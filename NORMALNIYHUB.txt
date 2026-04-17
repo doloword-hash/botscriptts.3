@@ -7,7 +7,7 @@ local TweenService = game:GetService("TweenService")
 local SCRIPTS_DATA = {
 	{
 		Name = "Bot Script", 
-		Url = "https://raw.githubusercontent.com/doloword-hash/botscriptts.3/refs/heads/main/BotScript.txt"
+		Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/bosa.lua"
 	},
 	{
 		Name = "Infinity yeld", 
