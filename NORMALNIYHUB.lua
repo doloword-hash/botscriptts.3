@@ -22,7 +22,7 @@ local SCRIPTS_DATA = {
 		Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/Noclip.lua"
 	},
 	{
-		Name = "Script Slot 5", 
+		Name = "Teleport (TAB)", 
 		Url = "https://raw.githubusercontent.com/ссылка_тут"
 	}
 }
