@@ -61,7 +61,7 @@ local function createModernGui(player)
 	header.Parent = frame
 
 	local title = Instance.new("TextLabel")
-	title.Text = "  NORMALNIY EXE [v4]"
+	title.Text = "  NORMALNIY EXE [v1]"
 	title.Size = UDim2.new(1, -50, 1, 0)
 	title.BackgroundTransparency = 1
 	title.TextColor3 = Color3.fromRGB(0, 255, 120)
@@ -72,7 +72,7 @@ local function createModernGui(player)
 
 	-- Кнопка закрытия (Исправленный крестик)
 	local destroyBtn = Instance.new("TextButton")
-	destroyBtn.Text = "✕"
+	destroyBtn.Text = "X"
 	destroyBtn.Size = UDim2.new(0, 35, 0, 35)
 	destroyBtn.Position = UDim2.new(1, -40, 0, 5)
 	destroyBtn.BackgroundTransparency = 1
