@@ -15,8 +15,8 @@ local SCRIPTS_DATA = {
 	{Name = "4. NormalniyMM2 LD", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/MgfdM2%20LhgOG.lua"},
 	{Name = "5. Teleport (TAB)", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/Thdfeleposr.lua"},
     {Name = "6. Dex Explorer", Url = "https://raw.githubusercontent.com/peyton2465/Dex/master/out.lua"},
-    {Name = "7. -", Url = "https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UntitledESP.lua"},
-    {Name = "8. -", Url = "https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.lua"},
+    {Name = "7. Калл Ростислава", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/GFASGK%23%23.lua"},
+    {Name = "8. Fling GUI", Url = "https://raw.githubusercontent.com/K1LAS1K/Ultimate-Fling-GUI/main/flingscript.lua"},
     {Name = "9. -", Url = "https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/DarkDexV3.lua"},
     {Name = "10. -", Url = "https://raw.githubusercontent.com/advxzivmskoa/keyboard/main/main.lua"}
 }
