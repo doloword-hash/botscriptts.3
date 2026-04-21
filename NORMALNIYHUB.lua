@@ -13,7 +13,7 @@ local SCRIPTS_DATA = {
 	{Name = "2. Infinity Yield", Url = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
 	{Name = "3. Rostickk Hub", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/SHEDEVR.lua"},
 	{Name = "4. NormalniyMM2 LD", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/MgfdM2%20LhgOG.lua"},
-	{Name = "5. Teleport (TAB)", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/Thdfeleposr.lua"},
+	{Name = "5. Teleport (TAB)", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/Teleport.lua"},
     {Name = "6. Dex Explorer", Url = "https://raw.githubusercontent.com/peyton2465/Dex/master/out.lua"},
     {Name = "7. Калл Ростислава", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/GFASGK%23%23.lua"},
     {Name = "8. Fling GUI", Url = "https://raw.githubusercontent.com/K1LAS1K/Ultimate-Fling-GUI/main/flingscript.lua"},
