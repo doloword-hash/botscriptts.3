@@ -7,7 +7,7 @@ local player = Players.LocalPlayer
 local currentTheme = Color3.fromRGB(0, 255, 120)
 local rainbowEnabled = false
 
--- ТВОИ 10 СКРИПТОВ
+-- ТВОИ 10 СКРИПТ
 local SCRIPTS_DATA = {
 	{Name = "1. Bot Script", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/bosa.lua"},
 	{Name = "2. Infinity Yield", Url = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
