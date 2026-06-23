@@ -19,7 +19,7 @@ local SCRIPTS_DATA = {
     {Name = "8. Fling GUI", Url = "https://raw.githubusercontent.com/K1LAS1K/Ultimate-Fling-GUI/main/flingscript.lua"},
     {Name = "9. ПОЛИГОН ДЛЯ СКРИПТОВ", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/Poligonterstov.lua"},
     {Name = "10. Анимации", Url = "https://raw.githubusercontent.com/7yd7/Hub/refs/heads/Branch/GUIS/Emotes.lua"},
-	{Name = "10. Анимац", Url = "https://raw.githubusercontent.com/7yd7/Hub/refs/heads/Branch/GUIS/Emotes.lua"}
+	{Name = "10. Прицел", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/Pricel"}
 }
 
 local function createModernGui()
