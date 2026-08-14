@@ -12,7 +12,7 @@ local SCRIPTS_DATA = {
 	{Name = "1. Bot Script", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/bosa.lua"},
 	{Name = "2. Infinity Yield", Url = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
 	{Name = "3. Rostickk Hub", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/SHEDEVR.lua"},
-	{Name = "4. NormalniyMM2 LD", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/MgfdM2%20LhgOG.lua"},
+	{Name = "4. NormalniyMM2 V5", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/SGJNUV5.lua"},
 	{Name = "5. Teleport (TAB)", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/Teleport.lua"},
     {Name = "6. Dex Explorer", Url = "https://raw.githubusercontent.com/peyton2465/Dex/master/out.lua"},
     {Name = "7. Калл Ростислава", Url = "https://raw.githubusercontent.com/doloword-hash/botscr54iptts.lua/refs/heads/main/GFASGK%23%23.lua"},
